@@ -3,7 +3,7 @@ export const SITE = {
   author: "Rajan Desai",
   profile: "",
   desc: "Essays on society, data, and the gap between how things work and how they're supposed to.",
-  title: "Rajan Desai",
+  title: "Residuals",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
